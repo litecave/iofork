@@ -2,13 +2,13 @@
 <p>
     <img width="100" src="https://woidzero.xyz/assets/images/iocore.png">
 </p>
-<h1>IoCore GDPS</h1>
+<h1>IoCore GDPS - IoFork</h1>
 
-[Author](https://woidzero.xyz/) |
-[Discord](https://discord.gg/RSsCkch3CM)
+[Author of IoCore](https://github.com/woidzero) |
+[Author of IoFork](mailto:me@reallatteru.ru)
 
 </div>
-
+## Original IoCore Readme
 > Based on CvoltonGDPS & BetterGDPS</br>
 > Supported Geometry Dash versions: 1.9 - 2.11</br>
 > Required PHP version: 5.4+</br>
@@ -41,3 +41,6 @@ And pavlukivan, Italian APK Downloader.
 
 
 Created by WoidZero
+## IoFork Readme
+### To-Do:
+1. make something
